@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+main{
+    height: 100dvh;
+}
+
+img{
+    max-width: 100%;
+}
+
+.w-icons{
+    width: 32px;
+    height: 32px;
+}
+
+.wt-casas{
+    width: 130px;
+}
+
+.casa-normal{
+    width: 600px;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+}
